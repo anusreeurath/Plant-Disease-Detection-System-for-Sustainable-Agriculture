@@ -2,17 +2,7 @@
 A machine learning-based Plant Disease Detection System using CNN to classify 38 plant diseases from leaf images. Features include a Streamlit web app for image upload, preview, and prediction. Designed to assist in early disease detection and improve agricultural sustainability.
 
 # System Overview
-![Blank diagram (1)](https://github.com/user-attachments/assets/99dd74a5-1008-498b-8b66-af3d0320b896)
-
-# Homepage with navigation Dropdown
-![8](https://github.com/user-attachments/assets/e0275a55-47fe-4d05-8a4d-8eadbef2a179)
-The homepage of the Streamlit web app featuring a dropdown navigation menu which includes
-
-Dropdown Menu: The user can select between different sections using the dropdown menu, with options such as "Home" and "Disease Recognition." 
-
-Home Section: Displays the title “Plant Disease Detection System for Sustainable Agriculture” with an image. 
-
-Disease Recognition: Allows users to upload a plant leaf image for disease classification. 
+![Blank diagram (1)](https://github.com/user-attachments/assets/99dd74a5-1008-498b-8b66-af3d0320b896) 
 
 # File Upload, Image Preview, and Prediction Process 
 ![9](https://github.com/user-attachments/assets/4d15dbbb-f332-4469-baa2-f04fb2b017d3)
